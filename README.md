@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Foodapptemp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.0.
@@ -25,3 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# FOOD_APP
+>>>>>>> 6fd6f17cb00f406a2716dd8e789b9e49ccedf2ae
